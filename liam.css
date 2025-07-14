@@ -1,0 +1,24 @@
+nav a{
+    text-decoration: none;
+    color: black;
+
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   
+}
+.login-form input{
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+}
